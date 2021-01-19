@@ -1,1 +1,1 @@
-# Boostnote
+#### Typescript学習に関してのメモをこちらにまとめます 1/18~
